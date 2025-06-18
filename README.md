@@ -6,7 +6,7 @@
 
 ## 📌 What Is Remote Desktop?
 
-Remote Desktop allows you to access and control another computer over a network or the internet as if you were sitting right in front of it. It's commonly used in IT support, remote work, and server management.
+Remote Desktop allows you to access and control another computer over a network or the Internet as if you were sitting right in front of it. It's commonly used in IT support, remote work, and server management.
 
 ---
 
@@ -56,6 +56,17 @@ I've used Remote Desktop and tools like **AnyDesk** to provide remote support an
 3. Click **Connect**.
 4. Enter the **username and password** when prompted.
 5. You should now be connected to the remote machine.
+
+---
+
+## 🔐 Security Best Practices
+
+- Use strong passwords and enable account lockout policies.
+- Only allow Remote Desktop connections over a secure VPN or internal network.
+- Enable **Network Level Authentication (NLA)** for an added layer of protection.
+- Limit users/groups allowed to connect remotely.
+- Regularly review and audit Remote Desktop access logs.
+- Keep systems up to date with patches and antivirus software.
 
 ---
 
