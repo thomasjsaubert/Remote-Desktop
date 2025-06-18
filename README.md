@@ -2,8 +2,6 @@
   <img src="https://i.imgur.com/BZLHzgN.png" alt="Remote Desktop Banner"/>
 </p>
 
-# 🔧 Remote Desktop – Overview and Use
-
 ## 📌 What Is Remote Desktop?
 
 Remote Desktop allows you to access and control another computer over a network or the Internet as if you were sitting right in front of it. It's commonly used in IT support, remote work, and server management.
